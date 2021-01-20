@@ -1,0 +1,172 @@
+@import "compass/reset";
+@import "compass/css3";
+
+body
+	{
+
+		height: 1080px;
+	}
+.d_box
+	{
+		width: 756px;
+		padding-top: 89px;
+		margin-left: 281px;
+		
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 35px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-left: 80px;
+		clear: both;
+	}
+.tabl
+	{
+		margin-top: 117px;
+	}
+.t_box
+	{
+		height: 31px;
+		margin-bottom: 12px;
+	}
+.t_b_a
+	{
+		margin-left: 60px;
+		line-height: 31px;
+	}
+.in_t
+	{
+		text-align: left;
+		margin-right: 14px;
+		line-height: 31px;
+		font-size: 14px;
+		letter-spacing: 0.8px;
+
+	}
+.in_t_w
+	{
+		width: 220px;
+		line-height: 31px;
+
+	}
+.textbox
+	{
+		background: none;
+		border-left: 2px solid #c0c0c0;
+		border-bottom: 1px solid #808080;
+		border-right: 2px solid #c0c0c0;
+		border-top: 1px solid #808080;
+		color: #4c4c4c;
+		height: 100%;
+		padding-left: 3px;
+	}
+.checkbox
+	{
+		width: 15px;
+		height: 15px;
+		border: 1px solid #c0c0c0;
+		outline: none;
+	}
+.phone
+	{
+		width: 274px;
+	}
+.add
+	{
+		width: 524px;
+	}
+.nu
+	{
+		width: 130px;
+	}
+.numbe
+	{
+		width: 131px;
+		height: 31px;
+		background-color: #cccccc;
+		margin-right: 10px;
+		margin-left: 10px;
+	}
+.n_nu
+	{
+		color: #b8622d;
+		font-size: 10px;
+		line-height: 31px;
+	}
+ .bu
+ 	{
+ 		font-size: 17px;
+ 		font-weight: 900;
+ 		letter-spacing: 2px;
+ 		line-height: 38px;
+ 		text-align: center;
+ 		width: 76px;
+ 		height: 38px;
+ 		margin-top: 18px;
+ 	}
+.bu_a
+ 	{
+ 		background-color: #b9632c;
+ 		color: #ffffff;
+ 	}
+.bu_b
+ 	{
+ 		background-color: #fff;
+ 		color: #000;
+ 		border: 1px solid #c0c0c0;
+ 		margin-right: 22px;
+ 	}
+
+
+/*<!-- 登入 -->*/
+.loin
+	{
+		width: 125px;
+		height: 206px;
+		border: 1px solid #bfbfbf;
+		background-color: #fff;
+		position: absolute;
+		top: 50px;
+		right: 280px;
+		.lo_i_b
+			{
+				width: 100%;
+				height: 34px;
+				font-size: 13px;
+				line-height: 34px;
+				text-align: center;
+				letter-spacing: 0.8px;
+				background-color: #fff;
+				color: #000;
+				&:hover
+					{
+						background-color: #000000;
+						color: #ff6b3e;
+					}
+			}
+	}
+/*<!-- 登入 END -->*/
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

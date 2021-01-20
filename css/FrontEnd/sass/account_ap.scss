@@ -1,0 +1,101 @@
+@import "compass/reset";
+@import "compass/css3";
+
+body
+	{
+
+		height: 1080px;
+	}
+.tit
+	{
+		margin-top: 150px;
+		margin-left: 455px;
+	}
+.indu
+	{
+		font-size: 14px;
+		line-height: 27px;
+		color: #b8622d;
+		margin-left: 545px;
+		margin-top: 58px;
+	}
+.mea_bo
+	{
+		margin-left: 545px;
+		margin-top: 110px
+	}
+.li_box
+	{
+		height: 32px;
+		line-height: 32px;
+		margin-bottom: 15px;
+	}
+.li_box_a
+	{
+		height: 32px;
+		line-height: 32px;
+		margin-bottom: 15px;
+		margin-top: 47px;
+	}
+.pic
+	{
+		margin-top: 5px;
+	}
+.te
+	{
+		width: 140px;
+		font-size: 18px;
+		margin-left: 18px;
+		margin-right: 18px;
+		text-align: center;
+		color: #b9632c;
+	}
+.te_a
+	{
+		font-size: 17px;
+		margin-right: 13px;
+		color: #b9632c;
+	}
+.bu
+	{
+		background-color: #b9632c;
+		color: #ffffff;
+		font-size: 16px;
+		font-weight: 900;
+		letter-spacing: 2px;
+		text-align: center;
+		width: 63px;
+		height: 32px;
+	}
+.ac
+	{
+		/*width: 340px;
+		height: 101px;*/
+	}
+.textbox
+	{
+		background: none;
+		border-left: 1px solid #a6a6a6;
+		border-bottom: 1px solid #a6a6a6;
+		border-right:  2px solid #d3d3d3;
+		border-top:  2px solid #d3d3d3;
+		color: #4c4c4c;
+		line-height: 22px;
+		height:22px; 
+		width: 203px;
+		margin-top: 6px;
+		margin-right: 20px;
+	}
+.bu_a
+	{
+		background-color: #b9632c;
+		color: #ffffff;
+		font-size: 12px;
+		font-weight: 900;
+		letter-spacing: 2px;
+		text-align: center;
+		width: 75px;
+		height: 28px;
+		margin-left: 175px;
+		margin-top: 10px;
+	}

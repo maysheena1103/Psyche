@@ -1,0 +1,515 @@
+@import "compass/reset";
+@import "compass/css3";
+
+body
+	{
+
+		height: 1080px;
+	}
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+		padding-bottom: 100px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 35px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-top: 26px;
+		padding-left: 40px;
+		padding-right: 87px;
+		.st_pi
+			{
+				width: 100%;
+				height: 28px;
+				
+				.st_a
+					{
+						
+						margin-right: 34px;
+					}
+			}
+		.ta_l
+			{
+				width: 100%;
+				height: 27px;
+				border-bottom: 1px solid #808080;
+				padding-bottom: 10px;
+				margin-top: 60px;
+				font-size: 14px;
+				font-weight: 800;
+			}
+		.list_b
+			{
+				width: 100%;
+				height: 100%;
+				border-top: 1px solid #c0c0c0;
+				.lis_li
+					{
+						width: 100%;
+						height: 135px;
+						border-bottom: 1px solid #c0c0c0;
+						font-size: 13px;
+						padding-top: 20px;
+						line-height: 18px;
+					}
+			}
+
+		.nu
+			{
+				width: 257px;
+				height: 100%;
+				padding-left: 104px;
+			}
+		.nu_c
+			{
+				width: 257px;
+				height: 100%;
+			}
+		.nu_pi
+			{
+				width: 106px;
+				height: 100%;
+				background-repeat: no-repeat;
+				background-position: center;
+				background-size: auto;
+			}
+		.nu_a
+			{
+				width: 72px;
+				height: 100%;
+				text-align: center;
+				.checkbox
+					{
+						width: 17px;
+						height: 17px;
+						border: 1px solid #404040;
+						margin: 0px;
+					}
+			}
+		.da
+			{
+				width: 80px;
+				height: 100%;
+				text-align: center;
+			}
+		.de
+			{
+				width: 137px;
+				height: 100%;
+				text-align: center;
+			}
+		.df
+			{
+				width: 106px;
+				height: 100%;
+				text-align: center;
+				.df_num
+					{
+						border: 1px solid #7f7f7f;
+						width: 49px;
+						height: 26px;
+					}
+			}
+		.co
+			{
+				width: 88px;
+				height: 100%;
+				text-align: center;
+			}
+		
+		.ca
+			{
+				width: 106px;
+				height: 100%;
+				text-align: center;
+			}
+		.me
+			{
+				width: 102px;
+				height: 100%;
+			}
+		.noy
+			{
+				width: 100%;
+				height: 140px;
+				padding-top: 15px;
+				border-bottom: 2px solid #808080;
+				font-size: 16px;
+				padding-left: 16px;
+				.of
+					{
+						font-size: 13px;
+						height: 30px;
+						line-height: 30px;
+						color: #b9632c;
+						width: 226px;
+					}
+				.tat
+					{
+						width: 412px;
+						height: 100%;
+						margin-left: -14px;
+						.t_b_sl
+							{
+								width: 100%;
+								height: 31px;
+								line-height: 31px;
+							}
+						.p_b
+							{
+								width: 293px;
+								text-align: right;
+							}
+						.ca
+							{
+								text-align: right;
+								width: 119px;
+							}
+						.sele
+							{
+								height: 31px;
+								width: 100%;
+								margin-top: 37px;
+								.sel_t
+									{
+										font-size: 17px;
+										line-height: 31px;
+										padding-left: 10px;
+										padding-right:12px;
+									}
+								.it_num_b
+									{
+										width: 234px;
+										height: 27px;
+										margin-top: 1px;
+										border: 1px solid #c0c0c0;
+									}
+								.it_n
+									{
+										border: none;
+										background: none;
+										padding: 0px;
+										margin: 0px;
+										width: 170px;
+										height: 100%;
+									}
+								.b_te
+									{
+										width: 62px;
+										height: 100%;
+										font-size: 11px;
+										text-align: center;
+										line-height: 27px;
+										color: #000;
+										border-left: 1px solid #c0c0c0;
+
+									}
+							}
+					}
+				.bu_a
+					{
+						border: 1px solid #808080;
+						color: #000;
+						font-size: 16px;
+						line-height: 28px;
+						text-align: center;
+						margin-left: 90px;
+						width: 98px;
+						height: 28px;
+					}
+			}
+
+		.bu
+			{
+				border: 1px solid #cb8a61;
+				color: #b8622d;
+				font-size: 16px;
+				text-align: center;
+				width: 65px;
+				height: 29px;
+			}
+		.talta
+			{
+				width: 100%;
+				height: 172px;
+				padding-bottom: 37px;
+				padding-top: 13px;
+				padding-left: 16px;
+				border-bottom: 1px solid #404040;
+				.of_a
+					{
+						font-size: 13px;
+						line-height: 30px;
+						color: #b9632c;
+						width: 455px;
+					}
+				.bo
+					{
+						font-size: 11px;
+						margin-left: 78px;
+						margin-top: -10px;
+					}
+				.p_b_c
+					{
+						width: 48px;
+						height: 30px;
+						line-height: 30px;
+						text-align: right;
+						font-weight: 900;
+					}
+				.ca_c
+					{
+						text-align: right;
+						width: 119px;
+						height: 30px;
+						line-height: 30px;
+						font-weight: 900;
+					}
+				.che
+					{
+						margin-left: 425px;
+						margin-top: 25px;
+						width: 266px;
+					}
+			}
+		.st_po
+			{
+				width: 100%;
+				height: 200px;
+				border-top: 1px solid #c0c0c0;
+				padding-top: 24px;
+				padding-left: 16px;
+			.poa_box
+				{
+					width: 124px;
+					height: 100%;
+				}
+			.po_te
+				{
+					width: 100px;
+					height: 72px;
+					background-color: #000;
+					border: 1px solid #808080;
+					padding-left: 12px;
+					letter-spacing: 5px;
+					color: #ff6a3e;
+					font-size: 22px;
+					font-weight: 900;
+					line-height: 30px;
+					padding-top: 6px;
+				}
+			.poi_nu
+				{
+					width: 100%;
+					height: 48px;
+					font-size: 17px;
+					line-height: 24px;
+					letter-spacing: 3px;
+					margin-top: 30px;
+				}
+			.poin_bo_r
+				{
+					width: 778px;
+					height: 172px;
+					margin-right: -85px;
+					padding-top: 9px;
+				}
+			.a_l
+				{
+					height: 100%;
+					width: 23px;
+					line-height: 162px;
+				}
+			.poi_bo_a
+				{
+					width: 732px;
+					height: 100%;
+					padding-left: 41px;
+					padding-right: 41px;
+				}
+			.pr_po_a
+				{
+					width: 112px;
+					height: 100%;
+					font-size: 11px;
+					color: #666666;
+					text-align: center;
+					margin-left: 9px;
+					margin-right: 9px;
+					.r_o_pi
+						{
+							width: 100%;
+							height: 144px;
+							border: 1px solid #c0c0c0;
+							margin-bottom: 7px;
+							background-repeat: no-repeat;
+							background-position: center;
+							background-size: auto;
+						}
+				}
+			}
+		
+	}
+
+
+/*追蹤清單*/
+.flow_list
+	{
+		position: absolute;
+		top: 570px;
+		left: 850px;
+		background-color: #ffffff;
+		border: 1px solid #5a5250;
+		width: 434px;
+
+		.ti_bar
+			{
+				color: #ff6b3e;
+				background-color: #000;
+				font-size: 15px;
+				font-weight: 300;
+				padding-left: 17px;
+				padding-top: 5px;
+				border: 1px solid #7c7c7c;
+				letter-spacing: 8px;
+			}
+		.sh_it
+			{
+				width: 100%;
+				height: 100%;
+				padding: 15px;
+				.sh_bo
+					{
+						width: 100%;
+						height: 32px;
+						font-size: 11px;
+						font-weight: 500;
+						border-bottom: 1px solid #000;
+					}
+				.sh_lhn
+					{
+						line-height: 32px;
+						
+					}
+				.sh_na
+					{
+						width: 155px;
+						height: 100%;
+						text-align: center;
+						margin-right: 15px;
+					}
+				.sh_nmb
+					{
+						width: 84px;
+						height: 100%;
+						text-align: center;
+						margin-right: 12px;
+					}
+				.sh_tag
+					{
+						width: 33px;
+						height: 100%;
+						text-align: center;
+						margin-right: 19px;
+					}
+				.s_b_p
+					{
+						padding-top: 24px;
+						width: 100%;
+						height: 100px;
+						font-size: 12px;
+						border-bottom: 1px solid #b5b5b5;
+					}
+				.item_sm
+					{
+						width: 100%;
+						height: 100%;
+					}
+				.it_pic_sm
+					{
+						width: 60px;
+						height: 80px;
+						margin-top: -7px;
+						background-repeat: no-repeat;
+						background-position: center;
+						background-size: contain;
+					}
+				.it_text_sm
+					{
+						width: 95px;
+						height: 100%;
+						font-size: 12px;
+						line-height: 15px;
+						letter-spacing: 0.5px;
+						text-align: left;
+					}
+				.s_price
+					{
+						margin-top: 15px;
+					}
+				.sh_bu
+					{
+						width: 73px;
+						height: 100%;
+					}
+				.it_n_s
+					{
+						margin-top: -7px;
+						width: 37px;
+						height: 22px;
+						margin-left: 8px;
+					}
+				.it_a
+					{
+						padding: 3px;
+						font-size: 10px;
+						color: #000;
+						background-color: #fff;
+						text-align: center;
+						border: 1px solid #7c7c7c;
+						margin-top: -4px;
+						margin-bottom: 9px;
+						&:hover
+							{
+								color: #ff6b3e;
+								background-color: #000;
+							}
+					}
+			}
+		.taltle
+			{
+				width: 100%;
+				height: 54px;
+				line-height: 54px;
+				letter-spacing: 1px;
+				font-size: 13px;
+				padding-left: 229px;
+				border-top: 2px solid #787878;
+				border-bottom: 2px solid #787878;
+			}
+		.tal_s
+			{
+				font-size: 15px;
+				width: 127px;
+				margin-right: 18px;
+				text-align: right;
+			}
+		button
+			{
+				margin-top: 25px;
+				margin-right: 25px;
+				margin-bottom: 30px;
+			}
+	}

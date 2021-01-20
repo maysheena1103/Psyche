@@ -1,0 +1,92 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+body
+	{
+
+		min-height: 1080px;
+	}
+
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 28px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-bottom: 150px;
+		padding-top: 83px;
+	}
+
+.story
+	{
+		width: 641px;
+		padding-left: 48px;
+		padding-right: 98px;
+		.st_tit
+			{
+				height: 27px;
+				line-height: 27px;
+				font-size: 17px;
+				color: #b7612e;
+				letter-spacing: 1px;
+				margin-left: -43px;
+				margin-bottom: 32px;
+			}
+		.s_a
+			{
+				margin-top: 140px;
+			}
+		.stor_text
+			{
+				font-size: 15px;
+				line-height: 28px;
+				letter-spacing: 2.5px;
+			}
+	}
+.stor_pic
+	{
+		margin-top: 54px;
+		width: 318px;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

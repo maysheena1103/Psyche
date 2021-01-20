@@ -1,0 +1,182 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+body
+	{
+
+		min-height: 1080px;
+	}
+
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 28px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-bottom: 150px;
+		padding-top: 30px;
+	}
+.table
+	{
+		width: 776px;
+		padding-left: 33px;
+		.ne_li
+			{
+				width: 100%;
+				height: 54px;
+				line-height: 54px;
+				border-bottom: 1px solid #c0c0c0;
+			}
+		.dot
+			{
+				width: 52px;
+				height: 100%;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-image: url(../../../images/su_16.png);
+			}
+		.ti_me
+			{
+				font-size: 14px;
+				width: 459px;
+				height: 100%;
+				padding-right: 10px;
+			}
+		.ne_tim
+			{
+				width: 82px;
+				height: 100%;
+				font-size: 12px;
+			}
+		.news_bu
+			{
+				width: 118px;
+				height: 100%;
+				background-position: center;
+				background-repeat: no-repeat;
+				background-size: auto;
+				background-image: url(../../../images/news_10.png);
+			
+			}
+	}
+.pic_ne
+	{
+		width: 210px;
+		margin-top: 57px;
+		margin-right: -114px;
+	}
+
+
+
+
+
+	/*<!-- 頁碼 -->*/
+.arrow
+	{
+		width: 100px;
+		height: 12px;
+		line-height: 12px;
+		letter-spacing: 2px;
+		font-size: 11px;
+		margin: 0 auto;
+		margin-top: 255px;
+		.pa
+			{
+				width: 78px;
+				text-align: center;
+				letter-spacing: 10px;
+			}
+	}
+
+
+
+
+/*news_in*/
+.t_a
+	{
+		width: 776px;
+		margin-left: 33px;
+		padding-left: 0px;
+	}
+.ne_li_a
+	{
+		width: 100%;
+		height: 54px;
+		line-height: 54px;
+		border-bottom: 2px solid #404040;
+	}
+.ti_me_a
+	{
+		font-size: 14px;
+		width: 459px;
+		height: 100%;
+		padding-right: 10px;
+	}
+.ne_mea
+	{
+		width: 100%;
+		padding-bottom: 98px;
+		border-bottom: 2px solid #808080;
+		padding-top: 17px;
+		padding-left: 50px;
+		padding-right: 22px;
+	}
+.ne_in_bu
+	{
+		width: 97px;
+		height: 38px;
+		line-height: 38px;
+		text-align: center;
+		color: #000;
+		margin-left: 350px;
+		margin-top: 28px;
+		border: 1px solid #c0c0c0;
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

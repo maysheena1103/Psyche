@@ -1,0 +1,175 @@
+@import "compass/reset";
+@import "compass/css3";
+
+body
+	{
+
+		height: 1080px;
+	}
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 35px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-top: 80px;
+		.ta_l
+			{
+				width: 100%;
+				height: 27px;
+				border-bottom: 1px solid #404040;
+				padding-bottom: 10px;
+				font-size: 14px;
+				font-weight: 800;
+			}
+		.list_b
+			{
+				width: 100%;
+				min-height: 389px;
+				padding-bottom: 75px;
+				border-top: 1px solid #c0c0c0;
+				.lis_li
+					{
+						width: 100%;
+						height: 63px;
+						border-bottom: 1px solid #c0c0c0;
+						font-size: 12px;
+						padding-top: 12px;
+						line-height: 15px;
+					}
+				.atm_l
+					{
+						margin-top: 5px;
+						line-height: 26px;
+						height: 27px;
+					}
+				.textbox
+					{
+						background: none;
+						border: 1px solid #c0c0c0;
+						color: #000000;
+						height: 26px;
+						width: 116px;
+						margin-right: 6px;
+					}
+				.bu
+					{
+						background-color: #b9632c;
+						color: #ffffff;
+						font-size: 11px;
+						font-weight: 900;
+						letter-spacing: 2px;
+						text-align: center;
+						width: 43px;
+						height: 26px;
+						padding-left: 3px;
+					}
+			}
+
+		.nu
+			{
+				width: 112px;
+				height: 100%;
+				text-align: center;
+			}
+		.nu_a
+			{
+				width: 112px;
+				height: 100%;
+				text-align: center;
+				color: #a9360c;
+			}
+		.da
+			{
+				width: 124px;
+				height: 100%;
+				text-align: center;
+			}
+		.way
+			{
+				width: 212px;
+				height: 100%;
+				padding-left: 52px;
+
+			}
+		.way_a
+			{
+				width: 212px;
+				height: 100%;
+				padding-left: 26px;
+
+			}
+		.co
+			{
+				width: 112px;
+				height: 100%;
+				text-align: center;
+			}
+		.de
+			{
+				width: 86px;
+				height: 100%;
+				margin-right: 50px;
+				text-align: center;
+			}
+		.ca
+			{
+				width: 92px;
+				height: 100%;
+				text-align: center;
+			}
+		.ou
+			{
+				width: 107px;
+				height: 100%;
+				text-align: center;
+				color: #a9360c;
+			}
+		.advice
+			{
+				width: 566px;
+				height: 140px;
+				font-size: 11px;
+				.tr
+					{
+						border-bottom: 1px solid #cdcdcd;
+					}
+				th
+					{
+						font-weight: 800;
+						font-size: 13px;
+						padding-left: 20px;
+					}
+				.td
+					{
+						width: 127px;
+						padding-left: 20px;
+					}
+
+			}
+		
+	}
+
+
+
+
+
+
+
+
+
+
+

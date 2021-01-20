@@ -1,0 +1,206 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+body
+	{
+
+		min-height: 1080px;
+	}
+.search_box
+	{
+		width: 258px;
+		height: 120px;
+		border: 1px solid #bfbfbf;
+		padding-top: 10px;
+		padding-left: 12px;
+		text-align: left;
+		position: absolute;
+		right: 145px;
+		top: 0px;
+		.t_sear
+			{
+				width: 234px;
+				color: #c0c0c0;
+				font-size: 14px;
+				border-bottom: 1px solid #c0c0c0;
+				button
+					{
+						background: none;
+						border: none;
+						padding: 0px;
+						margin: 0px;
+						color: #000;
+					}
+			}
+		.se
+			{
+				border: none;
+				width: 126px;
+				height: 25px;
+			}
+		.ad
+			{
+				padding-left: 4px;
+				padding-top: 10px;
+				color: #000;
+				font-size: 13px;
+				line-height: 20px;
+			}
+		.tee
+			{
+				text-decoration: underline;
+				color: #000;
+			}
+	}
+.d_box
+	{
+		width: 1007px;
+		padding-top: 43px;
+		margin-left: 254px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 28px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-left: 80px;
+		padding-bottom: 150px;
+	}
+.li_f
+	{
+		width: 978px;
+		height: 267px;
+		border-bottom: 1px solid #c0c0c0;
+	}
+.li_wi
+	{
+		height: 92px;
+		line-height: 92px;
+		letter-spacing: 2px;
+		font-size: 17px;
+	}
+.item
+	{
+		padding-top: 45px;
+		margin-right: 19px;
+		.it_pic
+			{
+				width: 140px;
+				height: 221px;
+				margin-left: -36px;
+				background-repeat: no-repeat;
+				background-position: 50% bottom;
+			}
+		.it_text
+			{
+				width: 101px;
+				height: 176px;
+				font-weight: 900;
+				margin-top: 45px;
+			}
+		.it_tit
+			{
+				font-size: 14px;
+				line-height: 25px;
+			}
+		.price
+			{
+				margin-top: 20px;
+				font-size: 10px;
+				line-height: 15px;
+			}
+		.it_a
+			{
+				width: 60px;
+				height: 22px;
+				line-height: 22px;
+				font-size: 11px;
+				color: #000;
+				text-align: center;
+				border-left: 2px solid #c0c0c0;
+				border-bottom: 2px solid #c0c0c0;
+				border-right: 2px solid #c0c0c0;
+				border-top: 1px solid #808080;
+				margin-top: 6px;
+				&:hover
+					{
+						color: #ff6b3e;
+						background-color: #000;
+					}
+			}
+		.it_n
+			{
+				border: none;
+				width: 33px;
+				height: 20px;
+			}
+		.it_num_b
+			{
+				width: 95px;
+				height: 22px;
+				margin-top: 7px;
+				border-left: 2px solid #c0c0c0;
+				border-bottom: 1px solid #808080;
+				border-right: 2px solid #c0c0c0;
+				border-top: 1px solid #808080;
+			}
+		.b_te
+			{
+				width: 56px;
+				height: 20px;
+				font-size: 11px;
+				text-align: center;
+				line-height: 20px;
+				color: #000;
+				border-left: 2px solid #919191;
+				&:hover
+					{
+						color: #ff6b3e;
+						background-color: #000;
+					}
+			}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

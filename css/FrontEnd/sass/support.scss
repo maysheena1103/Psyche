@@ -1,0 +1,202 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+body
+	{
+
+		min-height: 1080px;
+	}
+
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 28px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-bottom: 150px;
+		padding-top: 97px; 
+	}
+.su_tal
+	{
+		width: 961px;
+		height: 500px;
+		padding-left: 52px;
+	}
+.su_t_box
+	{
+		width: 245px;
+		height: 500px;
+		border: 1px solid #c0c0c0;
+		padding: 11px;
+		padding-top: 30px;
+		margin-right: 58px;
+		.su_tit
+			{
+				font-size: 16px;
+				color: #000;
+			}
+		.su_time
+			{
+				font-size: 10px;
+				color: #7f7f7f;
+				margin-top: 10px;
+				margin-bottom: 10px;
+			}
+	}
+	.su_pic
+		{
+			width: 219px;
+			height: 219px;
+		}
+	.su_do
+		{
+			font-size: 12px;
+			padding-top: 12px;
+			letter-spacing: 1px;
+			text-align: right;
+		}
+	.su_line
+		{
+			width: 100%;
+			height: 1px;
+			margin-top: 22px;
+			margin-bottom: 19px;
+			border: 1px solid #c58158;
+			@include box-shadow(#f1e0d6 0px 0px 2px);
+		}
+	.su_tet
+		{
+			font-size: 11px;
+			color: #666666;
+			line-height: 20px;
+			letter-spacing: 1.5px;
+
+		}
+
+
+
+
+
+
+
+
+/*su_in*/
+.su_tal_a
+	{
+		width: 961px;
+		height: 100%;
+		margin-top: -15px;
+		.te_wo
+			{
+				width: 658px;
+				height: 100%;
+				padding-left: 65px;
+				padding-right: 92px;
+				.do_tit
+					{
+						font-size: 23px;
+						color: #b7612e;
+						letter-spacing: 1px;
+						margin-left: -36px;
+					}
+				.do_time
+					{
+						font-size: 11px;
+						letter-spacing: 1.6px;
+						color: #666666;
+						margin-top: 20px;
+						margin-bottom: 45px;
+					}
+			}
+		.doc_in
+			{
+				width: 238px;
+				height: 913px;
+				margin-top: 34px;
+				background-color: #f2f2f2;
+				padding: 30px;
+				padding-top: 109px;
+				.su_pic_a
+					{
+						width: 178px;
+						height: 178px;
+					}
+				.su_line_a
+					{
+						width: 100%;
+						height: 1px;
+						margin-top: 18px;
+						margin-bottom: 19px;
+						border: 1px solid #c58158;
+						@include box-shadow(#f1e0d6 0px 0px 2px);
+					}
+			}
+	}
+
+	/*<!-- 頁碼 -->*/
+.arrow
+	{
+		width: 100px;
+		height: 12px;
+		line-height: 12px;
+		letter-spacing: 2px;
+		font-size: 11px;
+		margin: 0 auto;
+		margin-top: 62px;
+		.pa
+			{
+				width: 78px;
+				text-align: center;
+				letter-spacing: 10px;
+			}
+	}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

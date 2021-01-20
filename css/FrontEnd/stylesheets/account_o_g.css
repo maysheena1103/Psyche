@@ -1,0 +1,220 @@
+@charset "UTF-8";
+/* line 5, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed,
+figure, figcaption, footer, header, hgroup,
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font: inherit;
+  font-size: 100%;
+  vertical-align: baseline;
+}
+
+/* line 22, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+html {
+  line-height: 1;
+}
+
+/* line 24, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+ol, ul {
+  list-style: none;
+}
+
+/* line 26, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+
+/* line 28, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+caption, th, td {
+  text-align: left;
+  font-weight: normal;
+  vertical-align: middle;
+}
+
+/* line 30, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+q, blockquote {
+  quotes: none;
+}
+/* line 103, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+q:before, q:after, blockquote:before, blockquote:after {
+  content: "";
+  content: none;
+}
+
+/* line 32, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+a img {
+  border: none;
+}
+
+/* line 116, ../../../../../../../../Applications/Fire.app/Contents/Resources/lib/ruby/compass_1.0/compass-core-1.0.0/stylesheets/compass/reset/_utilities.scss */
+article, aside, details, figcaption, figure, footer, header, hgroup, main, menu, nav, section, summary {
+  display: block;
+}
+
+/* line 4, ../sass/account_o_g.scss */
+body {
+  height: 1080px;
+}
+
+/* line 9, ../sass/account_o_g.scss */
+.d_box {
+  width: 1007px;
+  padding-top: 96px;
+  margin-left: 30px;
+}
+
+/* line 15, ../sass/account_o_g.scss */
+.tit_up {
+  width: 100%;
+  height: 35px;
+  font-size: 19px;
+  letter-spacing: 5px;
+  padding-bottom: 10px;
+  border-bottom: 1px solid #404040;
+}
+
+/* line 24, ../sass/account_o_g.scss */
+.mea_box {
+  width: 100%;
+  border-top: 1px solid #c0c0c0;
+  padding-top: 74px;
+  padding-left: 40px;
+  padding-right: 87px;
+}
+/* line 31, ../sass/account_o_g.scss */
+.mea_box .ta_l {
+  width: 100%;
+  height: 27px;
+  border-bottom: 1px solid #808080;
+  padding-bottom: 10px;
+  font-size: 14px;
+  font-weight: 800;
+}
+/* line 40, ../sass/account_o_g.scss */
+.mea_box .list_b {
+  width: 100%;
+  height: 485px;
+  border-top: 1px solid #c0c0c0;
+}
+/* line 45, ../sass/account_o_g.scss */
+.mea_box .list_b .lis_li {
+  width: 100%;
+  height: 135px;
+  border-bottom: 1px solid #c0c0c0;
+  font-size: 13px;
+  padding-top: 20px;
+  line-height: 18px;
+}
+/* line 56, ../sass/account_o_g.scss */
+.mea_box .nu {
+  width: 257px;
+  height: 100%;
+  padding-left: 106px;
+}
+/* line 62, ../sass/account_o_g.scss */
+.mea_box .nu_c {
+  width: 257px;
+  height: 100%;
+}
+/* line 67, ../sass/account_o_g.scss */
+.mea_box .nu_pi {
+  width: 106px;
+  height: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: auto;
+}
+/* line 75, ../sass/account_o_g.scss */
+.mea_box .nu_a {
+  width: 100px;
+  height: 100%;
+  text-align: center;
+}
+/* line 80, ../sass/account_o_g.scss */
+.mea_box .nu_a .checkbox {
+  width: 17px;
+  height: 17px;
+  border: 1px solid #404040;
+  margin: 0px;
+}
+/* line 88, ../sass/account_o_g.scss */
+.mea_box .da {
+  width: 82px;
+  height: 100%;
+  text-align: center;
+}
+/* line 94, ../sass/account_o_g.scss */
+.mea_box .co {
+  width: 114px;
+  height: 100%;
+  text-align: center;
+}
+/* line 100, ../sass/account_o_g.scss */
+.mea_box .de {
+  width: 136px;
+  height: 100%;
+  margin-right: 50px;
+  text-align: center;
+}
+/* line 107, ../sass/account_o_g.scss */
+.mea_box .ca {
+  width: 110px;
+  height: 100%;
+  text-align: center;
+}
+/* line 113, ../sass/account_o_g.scss */
+.mea_box .me {
+  width: 102px;
+  height: 100%;
+}
+/* line 118, ../sass/account_o_g.scss */
+.mea_box .noy {
+  margin-top: 15px;
+  color: #b9632c;
+  height: 30px;
+  font-size: 13px;
+  line-height: 30px;
+  letter-spacing: 0.8px;
+  margin-bottom: 84px;
+}
+/* line 127, ../sass/account_o_g.scss */
+.mea_box .noy .bu {
+  background-color: #b9632c;
+  color: #ffffff;
+  font-size: 18px;
+  text-align: center;
+  font-weight: 100;
+  width: 65px;
+  height: 29px;
+}
+
+/*<!-- 頁碼 -->*/
+/* line 141, ../sass/account_o_g.scss */
+.arrow {
+  width: 100px;
+  height: 12px;
+  line-height: 12px;
+  letter-spacing: 2px;
+  font-size: 11px;
+  margin: 0 auto;
+  margin-top: 62px;
+}
+/* line 150, ../sass/account_o_g.scss */
+.arrow .pa {
+  width: 78px;
+  text-align: center;
+  letter-spacing: 10px;
+}

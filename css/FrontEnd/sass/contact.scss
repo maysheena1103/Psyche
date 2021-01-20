@@ -1,0 +1,160 @@
+@import "compass/reset";
+@import "compass/css3";
+
+
+
+
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 28px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-bottom: 150px;
+		padding-top: 30px;
+	}
+.co_ti_box
+	{
+		width: 692px;
+		height: 100%;
+		padding-top: 83px;
+		.c_t_a
+			{
+				width: 100%;
+				height: 100%;
+				.cla
+					{
+						width: 476px;
+						height: 225px;
+						color: #333333;
+						text-align: left;
+						margin-left: 71px;
+						margin-bottom: 72px;
+					}
+				.tr
+					{
+						border-bottom: 1px solid #bfbfbf;
+					}
+				.td_a
+					{
+						padding-left: 69px;
+						width: 177px;
+					}
+				.bub
+					{
+						font-size: 16px;
+						letter-spacing: 2px;
+						line-height: 34px;
+						text-align: center;
+						width: 66px;
+						height: 34px;
+						margin-top: 18px;
+					}
+				.bub_a
+					{
+						background-color: #b9632c;
+						color: #ffffff;
+					}
+				.bub_b
+					{
+						background-color: #fff;
+						color: #000;
+						border: 1px solid #c0c0c0;
+					}
+			}
+		.d_ri
+			{
+				font-size: 15px;
+				padding-left: 13px;
+				line-height: 30px;
+				letter-spacing: 2px;
+			}
+		.bo
+			{
+				width: 553px;
+				height: 476px;
+				margin-top: 36px;
+				padding-left: 65px;
+				border-bottom: 1px solid #808080;
+				.tta
+					{
+						font-size: 15px;
+					}
+				td
+					{
+						height: 40px;
+					}
+				input
+					{
+						border: 1px solid #c0c0c0;
+						height: 32px;
+					}
+				.n
+					{
+						width: 258px;
+					}
+				.t
+					{
+						width: 336px;
+					}
+				.e
+					{
+						width: 404px;
+					}
+				.p
+					{
+						width: 222px;
+					}
+				.l
+					{
+						width: 258px;
+					}
+				.r
+					{
+						width: 390px;
+						height: 162px;
+						border: 1px solid #c0c0c0;
+					}
+				.s
+					{
+						width: 131px;
+					}
+				.r_a
+					{
+						padding-top: 6px;
+						padding-bottom: 6px;
+					}
+				.nus
+					{
+						width: 131px;
+						height: 31px;
+						background-color: #c0c0c0;
+						margin-left: 8px;
+					}
+			}
+
+	}
+
+.pic_ne
+	{
+		width: 210px;
+		margin-top: 57px;
+		margin-right: -114px;
+	}
+
+
+
+

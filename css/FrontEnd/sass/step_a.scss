@@ -1,0 +1,262 @@
+@import "compass/reset";
+@import "compass/css3";
+
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+		padding-bottom: 100px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 35px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-top: 26px;
+		padding-left: 40px;
+		padding-right: 87px;
+		.st_pi
+			{
+				width: 100%;
+				height: 28px;
+				.st_a
+					{
+						margin-right: 34px;
+					}
+			}
+		.or_de
+			{
+				margin-top: 25px;
+				width: 100%;
+				height: 47px;
+				text-align: right;
+				border-bottom: 1px solid #c0c0c0;
+				border-top: 2px solid #c0c0c0;
+				padding-right: 46px;
+				padding-top: 8px;
+				a
+					{
+						color: #000;
+						font-size: 15px;
+					}
+			}
+		.or_li
+			{
+				width: 100%;
+				margin-top: 8px;
+				.r_a
+					{
+						border-bottom: 2px solid #808080;
+					}
+				.r_a_a
+					{
+						border-bottom: 1px solid #808080;
+					}
+				.r_b
+					{
+						border-bottom: 1px solid #c0c0c0;
+					}
+				th
+					{
+						height: 35px;
+						font-size: 14px;
+					}
+				td
+					{
+						height: 50px;
+						font-size: 13px;
+					}
+				.d_a
+					{
+						width: 20%;
+						padding-left: 53px;
+					}
+				.d_b
+					{
+						width: 8%;
+						text-align: center;
+					}
+				.d_c
+					{
+						text-align: right;
+						padding-right: 35px;
+					}
+				.d_d
+					{
+						width: 17%;
+						text-align: right;
+						padding-right: 153px;
+					}
+				.d_e
+					{
+						color: #aa370b;
+						font-size: 14px;
+					}
+
+				.s_h
+					{
+						height: 40px;
+					}
+				.s_h_a
+					{
+						height: 20px;
+					}
+				.of
+					{
+						font-size: 13px;
+						height: 30px;
+						line-height: 30px;
+						color: #b9632c;
+						width: 226px;
+					}
+				.bu
+					{
+						border: 1px solid #eead92;
+						color: #ffffff;
+						font-size: 16px;
+						text-align: center;
+						width: 65px;
+						height: 30px;
+						background-color: #dc5b25;
+					}
+				.tex
+					{
+						line-height: 35px;
+						font-size: 13px;
+						padding-top: 18px;
+					}
+			}
+		.pay
+			{
+				width: 100%;
+				height: 236px;
+				padding-left: 83px;
+				padding-top: 38px;
+				border-bottom: 1px solid #c0c0c0;
+				.pa_tes
+					{
+						font-size: 20px;
+						letter-spacing: 1px;
+					}
+				table
+					{
+						margin-top: 18px;
+						font-size: 17px;
+						margin-left: 30px;
+					}
+				td
+					{
+						height: 36px;
+					}
+				.checkbox
+					{
+						width: 16px;
+						height: 16px;
+						border: 1px solid #404040;
+					}
+				.d_a
+					{
+						padding-left: 19px;
+						width: 164px;
+					}
+				.d_b
+					{
+						font-weight: 900;
+						padding-left: 36px;
+						color: #b8622d;
+					}
+			}
+		.per
+			{
+				width: 100%;
+				height: 363px;
+				padding-left: 83px;
+				padding-top: 38px;
+				border-bottom: 2px solid #808080;
+				.pa_tes
+					{
+						font-size: 20px;
+						letter-spacing: 1px;
+					}
+				table
+					{
+						width: 356px;
+						font-size: 16px;
+						letter-spacing: 0.5px;
+						margin-top: 22px;
+						margin-left: 70px;
+					}
+				td
+					{
+						height: 42px;
+					}
+				input
+					{
+						
+						height: 31px;
+						border: 1px solid #808080;
+					}
+				.a
+					{
+						width: 247px;
+					}
+				.b
+					{
+						width: 299px;
+					}
+				.c
+					{
+						width: 265px;
+					}
+				.d
+					{
+						width: 193px;
+					}
+				.e
+					{
+						width: 64px;
+						color: #808080;
+						margin-left: 5px;
+					}
+			}
+		.ar_bu
+			{
+				width: 252px;
+				height: 46px;
+				margin: 0 auto;
+				margin-top: 44px;
+				margin-bottom: 30px;
+			}
+		.w_pay
+			{
+				width: 100%;
+				height: 486px;
+				margin-top: 62px;
+				padding-left: 83px;
+				padding-top: 38px;
+				border-top: 1px solid #808080;
+				border-bottom: 1px solid #c0c0c0;
+				.pa_tes
+					{
+						font-size: 20px;
+						letter-spacing: 1px;
+					}
+				.pa_no
+					{
+						font-size: 14px;
+						line-height: 25px;
+						padding-left: 71px;
+						padding-top: 40px;
+					}
+			}
+		
+	}

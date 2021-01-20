@@ -1,0 +1,167 @@
+@import "compass/reset";
+@import "compass/css3";
+
+body
+	{
+
+		height: 1080px;
+	}
+.d_box
+	{
+		width: 1007px;
+		padding-top: 96px;
+		margin-left: 30px;
+	}
+.tit_up
+	{
+		width: 100%;
+		height: 35px;
+		font-size: 19px;
+		letter-spacing: 5px;
+		padding-bottom: 10px;
+		border-bottom: 1px solid #404040;
+	}
+.mea_box
+	{
+		width: 100%;
+		border-top: 1px solid #c0c0c0;
+		padding-top: 74px;
+		padding-left: 40px;
+		padding-right: 87px;
+		.ta_l
+			{
+				width: 100%;
+				height: 27px;
+				border-bottom: 1px solid #808080;
+				padding-bottom: 10px;
+				font-size: 14px;
+				font-weight: 800;
+			}
+		.list_b
+			{
+				width: 100%;
+				height: 485px;
+				border-top: 1px solid #c0c0c0;
+				.lis_li
+					{
+						width: 100%;
+						height: 135px;
+						border-bottom: 1px solid #c0c0c0;
+						font-size: 13px;
+						padding-top: 20px;
+						line-height: 18px;
+					}
+			}
+
+		.nu
+			{
+				width: 257px;
+				height: 100%;
+				padding-left: 106px;
+			}
+		.nu_c
+			{
+				width: 257px;
+				height: 100%;
+			}
+		.nu_pi
+			{
+				width: 106px;
+				height: 100%;
+				background-repeat: no-repeat;
+				background-position: center;
+				background-size: auto;
+			}
+		.nu_a
+			{
+				width: 100px;
+				height: 100%;
+				text-align: center;
+				.checkbox
+					{
+						width: 17px;
+						height: 17px;
+						border: 1px solid #404040;
+						margin: 0px;
+					}
+			}
+		.da
+			{
+				width: 82px;
+				height: 100%;
+				text-align: center;
+			}
+		.co
+			{
+				width: 114px;
+				height: 100%;
+				text-align: center;
+			}
+		.de
+			{
+				width: 136px;
+				height: 100%;
+				margin-right: 50px;
+				text-align: center;
+			}
+		.ca
+			{
+				width: 110px;
+				height: 100%;
+				text-align: center;
+			}
+		.me
+			{
+				width: 102px;
+				height: 100%;
+			}
+		.noy
+			{
+				margin-top: 15px;
+				color: #b9632c;
+				height: 30px;
+				font-size: 13px;
+				line-height: 30px;
+				letter-spacing: 0.8px;
+				margin-bottom: 84px;
+				.bu
+					{
+						background-color: #b9632c;
+						color: #ffffff;
+						font-size: 18px;
+						text-align: center;
+						font-weight: 100;
+						width: 65px;
+						height: 29px;
+					}
+			}
+		
+	}
+	/*<!-- 頁碼 -->*/
+.arrow
+	{
+		width: 100px;
+		height: 12px;
+		line-height: 12px;
+		letter-spacing: 2px;
+		font-size: 11px;
+		margin: 0 auto;
+		margin-top: 62px;
+		.pa
+			{
+				width: 78px;
+				text-align: center;
+				letter-spacing: 10px;
+			}
+	}
+
+
+
+
+
+
+
+
+
+
+
